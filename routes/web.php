@@ -35,4 +35,4 @@ Route::get("get-product/{id}/{name?}", [ProductController::class, 'getProduct'])
 Route::get("update-product", [ProductController::class, 'updateProduct']);
 
 
-Route::get('list-sv', [SVController::class, 'showSV']);
+Route::get('thongtinsv', [SVController::class, 'showSV']);

@@ -6,7 +6,7 @@
     <title>Danh sách sản phẩm</title>
 </head>
 <body>
-    <h1>Xin chào các đồng viêw</h1>
+    <h1>Thông tin sinh viên</h1>
     <table>
         <thead>
             <tr>
